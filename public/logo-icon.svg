@@ -1,0 +1,17 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenIcon" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#B7FF5A"/>
+      <stop offset="0.45" stop-color="#58FF00"/>
+      <stop offset="1" stop-color="#1DB900"/>
+    </linearGradient>
+    <linearGradient id="blackIcon" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#444444"/>
+      <stop offset="0.35" stop-color="#111111"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Arial Black, Impact, sans-serif" font-style="italic" font-weight="900" text-anchor="middle">
+    <text x="22" y="30" font-size="28" letter-spacing="-3" fill="url(#blackIcon)" stroke="#58FF00" stroke-width="3" paint-order="stroke">TEC<tspan fill="url(#greenIcon)">+</tspan></text>
+  </g>
+</svg>
